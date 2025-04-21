@@ -29,9 +29,7 @@ Whether it’s crafting smooth UI with React or wiring up backend APIs with Node
 - **LinkedIn** – [akshay-kocharekar](https://www.linkedin.com/in/akshay-kocharekar-859829321)  
 - **Instagram** – [@akshay.45__](https://instagram.com/akshay.45__)
 
----
 
-## 🎧 Fun Stuff
 
-I can code for hours with music on loop and always down for a quick cricket match 🏏
+
 
