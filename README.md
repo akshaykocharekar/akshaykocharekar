@@ -1,30 +1,37 @@
-# 💫 About Me
+# 👋 Hey there, I'm Akshay Kocharekar
 
-Hi, I’m **Akshay Kocharekar** – a second-year BCA student passionate about web development and modern technology. I'm currently exploring the MERN stack (MongoDB, Express.js, React, Node.js) and building real-world web applications.
+I'm a second-year BCA student with a big love for tech and creativity. I spend most of my time building cool stuff on the web using the MERN stack (MongoDB, Express, React, Node.js).  
 
-## 👨‍💻 What I Do
+Whether it’s crafting smooth UI with React or wiring up backend APIs with Node.js, I’m all about turning ideas into real, working projects.
 
-- I love building interactive, responsive user interfaces using React.
-- I enjoy solving problems using JavaScript and creating RESTful APIs with Node.js and Express.
-- I explore different frontend and backend libraries, tools, and frameworks.
-- I build projects to sharpen my skills and learn something new every day.
+---
 
-## 🌱 Currently Learning
+## 🚀 What I'm Up To
 
-- Advanced JavaScript
-- React Hooks and Context API
-- Express and MongoDB
-- APIs and full-stack integration
+- Building full-stack web apps that actually solve problems
+- Diving deeper into JavaScript, React, Node, and MongoDB
+- Exploring APIs, payment gateways, and auth systems
+- Always learning something new (and breaking a few things on the way 😉)
 
-## 💡 Looking To Collaborate On
+---
 
-- Open-source projects
-- Frontend or full-stack web apps
-- Projects that solve real-life problems
+## 🤝 Open to Collaborate On
 
-## 📫 Contact Me
+- React & MERN stack projects  
+- Portfolio websites / web tools  
+- Fun side projects & open source ideas  
 
-- **Email:** akshaykocharekar3@gmail.com  
-- **LinkedIn:** [linkedin.com/in/akshay-kocharekar-859829321](https://www.linkedin.com/in/akshay-kocharekar-859829321)  
-- **Instagram:** [@akshay.45__](https://instagram.com/akshay.45__)
+---
+
+## 📬 Let’s Connect
+
+- **Email** – akshaykocharekar3@gmail.com  
+- **LinkedIn** – [akshay-kocharekar](https://www.linkedin.com/in/akshay-kocharekar-859829321)  
+- **Instagram** – [@akshay.45__](https://instagram.com/akshay.45__)
+
+---
+
+## 🎧 Fun Stuff
+
+I can code for hours with music on loop and always down for a quick cricket match 🏏
 
