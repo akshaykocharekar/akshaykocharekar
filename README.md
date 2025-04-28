@@ -10,7 +10,6 @@ Whether it’s crafting smooth UI with React or wiring up backend APIs with Node
 
 - Building full-stack web apps that actually solve problems
 - Diving deeper into JavaScript, React, Node, and MongoDB
-- Exploring APIs, payment gateways, and auth systems
 - Always learning something new (and breaking a few things on the way 😉)
 
 ---
